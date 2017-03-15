@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/QML">
+        <file>qml/content/images/paper-edge-left.png</file>
+        <file>qml/content/images/paper-edge-right.png</file>
+        <file>qml/content/images/paper-grip.png</file>
+        <file>qml/content/Button.qml</file>
+        <file>qml/content/Button.qmlc</file>
+        <file>qml/content/calculator.js</file>
+        <file>qml/content/calculator.jsc</file>
+        <file>qml/content/Display.qml</file>
+        <file>qml/content/Display.qmlc</file>
+        <file>qml/content/NumberPad.qml</file>
+        <file>qml/content/NumberPad.qmlc</file>
+        <file>qml/doc/images/qtquick-demo-calqlatr.png</file>
+        <file>qml/doc/src/calqlatr.qdoc</file>
+        <file>qml/qmlaxes/main.qml</file>
+        <file>qml/qmlaxes/View1.qml</file>
+        <file>qml/qmlaxes/View2.qml</file>
+        <file>qml/qmlaxes/View3.qml</file>
+        <file>qml/calqlatr.qml</file>
+        <file>qml/chart.qml</file>
+    </qresource>
+</RCC>
