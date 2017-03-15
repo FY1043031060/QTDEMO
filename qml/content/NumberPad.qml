@@ -60,7 +60,7 @@ Grid {
     Button { text: "."; dimmable: true }
     Button { text: " " }
     Button { text: "±"; color: "#6da43d"; operator: true; dimmable: true }
-    Button { text: "−"; color: "#6da43d"; operator: true; dimmable: true }
+//    Button { text: "−"; color: "#6da43d"; operator: true; dimmable: true }
     Button { text: "+"; color: "#6da43d"; operator: true; dimmable: true }
     Button { text: "√"; color: "#6da43d"; operator: true; dimmable: true }
     Button { text: "÷"; color: "#6da43d"; operator: true; dimmable: true }
