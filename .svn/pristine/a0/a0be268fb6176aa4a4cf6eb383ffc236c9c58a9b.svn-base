@@ -1,0 +1,37 @@
+﻿  Generate moc_predefs.h
+  UIC Monitor.ui
+  UIC SettingWindow.ui
+  UIC ToolWindow.ui
+  UIC Workbench.ui
+  MOC ChartView.h
+  moc: ChartView.h: No such file
+  MOC CompassFactory.h
+  moc: CompassFactory.h: No such file
+  MOC Monitor.h
+  moc: Monitor.h: No such file
+  MOC SettingWindow.h
+  moc: SettingWindow.h: No such file
+  MOC ToolWindow.h
+  moc: ToolWindow.h: No such file
+  MOC Workbench.h
+  moc: Workbench.h: No such file
+  MOC attitude_indicator.h
+  moc: attitude_indicator.h: No such file
+  MOC ChartView.h
+  moc: ChartView.h: No such file
+  MOC CompassFactory.h
+  moc: CompassFactory.h: No such file
+  MOC Monitor.h
+  moc: Monitor.h: No such file
+  MOC SettingWindow.h
+  moc: SettingWindow.h: No such file
+  MOC ToolWindow.h
+  moc: ToolWindow.h: No such file
+  MOC Workbench.h
+  moc: Workbench.h: No such file
+  MOC attitude_indicator.h
+  moc: attitude_indicator.h: No such file
+  RCC resource.qrc
+  RCC: Error in 'resource.qrc': Cannot find file 'Debug/moc_Monitor.cpp'
+  
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(171,5): error MSB6006: “cmd.exe”已退出，代码为 1。
