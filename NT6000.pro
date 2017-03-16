@@ -53,5 +53,6 @@ FORMS    += Monitor.ui \
 RESOURCES += \
     resource.qrc
 
+
 CONFIG+=declarative_debug
 CONFIG+=qml_debug

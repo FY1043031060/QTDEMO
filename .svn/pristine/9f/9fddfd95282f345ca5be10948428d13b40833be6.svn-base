@@ -1,0 +1,17 @@
+#include "ChartView.h"
+
+ChartView::ChartView(QChart *chart, QWidget *parent = Q_NULLPTR)
+    :QChartView (chart,parent)
+{
+
+}
+
+ChartView::~ChartView()
+{
+
+}
+
+void ChartView::dropEvent(QDropEvent *event)
+{
+    this->parentWidget()->dropEvent(event);
+}
