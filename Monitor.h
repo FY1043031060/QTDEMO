@@ -10,9 +10,9 @@
 #include <QToolBar>
 #include <QAction>
 
-class SettingWindow;    //设置
-class ToolWindow;       //工具
-class Workbench;        //工作区
+class SettingWindow;
+class ToolWindow;
+class Workbench;
 
 namespace Ui {
 class Monitor;
