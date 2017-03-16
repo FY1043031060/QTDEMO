@@ -26,15 +26,14 @@ Rectangle {
              PieSlice { label: "not yet eaten"; value: 5.1 }
          }
      }
-    Button {
-        id: button1
-        width: 126
-        height: 36
-        text: qsTr("Button")
-        onClicked: {
-
-        }
-    }
+//    Button {
+//        id: button1
+//        x: 62
+//        y: 30
+//        width: 126
+//        height: 36
+//        text: qsTr("Button")
+//    }
 
 
 }
