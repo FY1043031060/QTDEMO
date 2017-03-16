@@ -167,5 +167,6 @@ void Workbench::slotAddQuick()
     QQuickWidget* qwidget = new QQuickWidget(this);
     qwidget->setSource((QUrl("qrc:/QML/qml/chart.qml")));
     qwidget->setResizeMode(QQuickWidget::SizeViewToRootObject );
+    qwidget->show();
     m_pBaseLayout->addWidget(qwidget);
 }

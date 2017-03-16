@@ -35,8 +35,7 @@ SOURCES += main.cpp\
     SettingWindow.cpp \
     CompassFactory.cpp \
     attitude_indicator.cpp \
-    speedo_meter.cpp \
-    qtest.cpp
+    speedo_meter.cpp
 
 HEADERS  += Monitor.h \
     Workbench.h \
@@ -44,17 +43,12 @@ HEADERS  += Monitor.h \
     SettingWindow.h \
     attitude_indicator.h \
     speedo_meter.h \
-    CompassFactory.h \
-    qtest.h
+    CompassFactory.h
 
 FORMS    += Monitor.ui \
     Workbench.ui \
     ToolWindow.ui \
     SettingWindow.ui
 
-RESOURCES += \
-    resource.qrc
+RESOURCES += resource.qrc
 
-
-CONFIG+=declarative_debug
-CONFIG+=qml_debug
