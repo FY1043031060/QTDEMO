@@ -35,7 +35,8 @@ SOURCES += main.cpp\
     SettingWindow.cpp \
     CompassFactory.cpp \
     attitude_indicator.cpp \
-    speedo_meter.cpp
+    speedo_meter.cpp \
+    qtest.cpp
 
 HEADERS  += Monitor.h \
     Workbench.h \
@@ -43,7 +44,8 @@ HEADERS  += Monitor.h \
     SettingWindow.h \
     attitude_indicator.h \
     speedo_meter.h \
-    CompassFactory.h
+    CompassFactory.h \
+    qtest.h
 
 FORMS    += Monitor.ui \
     Workbench.ui \
